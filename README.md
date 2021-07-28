@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xuanhs
-- 👀 I’m interested in structure,network and java 
+- 👀 I’m interested in structure,network,tidb,flink and anything interesting
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 1359165569@qq.com
